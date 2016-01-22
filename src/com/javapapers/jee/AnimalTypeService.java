@@ -1,5 +1,5 @@
 package com.javapapers.jee;
-//Evaluation of source tree- changes-5
+//Evaluation of source tree- changes-6 - Final Releases for Fix 5676
 public class AnimalTypeService {
 	public String animalType(String animal) {
 		String animalType = "";
