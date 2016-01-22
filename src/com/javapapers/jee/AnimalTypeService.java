@@ -1,5 +1,5 @@
 package com.javapapers.jee;
-//Evaluation of source tree- changes-2
+//Evaluation of source tree- changes-3 -file deleted
 public class AnimalTypeService {
 	public String animalType(String animal) {
 		String animalType = "";
