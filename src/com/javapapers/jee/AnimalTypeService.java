@@ -1,5 +1,5 @@
 package com.javapapers.jee;
-//Evaluation of source tree- changes-4 [change in windows instances]
+//Evaluation of source tree- changes-5
 public class AnimalTypeService {
 	public String animalType(String animal) {
 		String animalType = "";
